@@ -1,0 +1,2 @@
+# sdmt
+django with sql
